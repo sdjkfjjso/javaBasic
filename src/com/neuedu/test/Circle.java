@@ -11,7 +11,7 @@ public class Circle {
         if (radius1>0){
             radius=radius1;
         }else {
-            System.out.println("将半径输出为正数");
+            System.out.println("将半径输出");
         }
         System.out.println("圆的周长为："+(2*π*radius));
         System.out.println("圆的面积为："+(π*radius*radius));
