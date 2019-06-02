@@ -1,5 +1,7 @@
 package com.neuedu.school;
 
+import java.util.Scanner;
+
 public class TextClass {
     public static void main(String[] args) {
 //        1.
@@ -13,20 +15,20 @@ public class TextClass {
         square.girth();
 
 //        2.
-        Instrument instrument;
-        Wind wind = new Wind();
-        Brass brass = new Brass();
-        instrument = wind;
-        instrument.play();
-        instrument = brass;
-        instrument.play();
-
-//        3.
-        Monkey monkey = new Monkey("a");
-        monkey.speek();
-        People people = new People();
-        people.speek();
-        people.think();
+//        Instrument instrument;
+//        Wind wind = new Wind();
+//        Brass brass = new Brass();
+//        instrument = wind;
+//        instrument.play();
+//        instrument = brass;
+//        instrument.play();
+//
+////        3.
+//        Monkey monkey = new Monkey("a");
+//        monkey.speek();
+//        People people = new People();
+//        people.speek();
+//        people.think();
 
     }
 }
