@@ -17,6 +17,7 @@ public class Homework1 {
          while(a!=1){
              if(a%2==1){
             a=a*3+1;
+            System.out.println(a);
              }else{
                  a=a/2;
              }

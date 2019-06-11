@@ -1,6 +1,6 @@
-package DuanWu;
+package DuanWuHomework;
 
-public class jiaotonggongju {
+public class Transport {
     private String work;
     private int seat;
     private double speed;

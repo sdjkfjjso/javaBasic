@@ -1,4 +1,4 @@
-package DuanWu;
+package DuanWuHomework;
 
 public class Boy extends Student {
     @Override

@@ -1,4 +1,4 @@
-package DuanWu;
+package DuanWuHomework;
 
 public class Guil extends Student implements Compere{
     public void zhuchi(){

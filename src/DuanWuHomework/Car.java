@@ -1,6 +1,6 @@
-package DuanWu;
+package DuanWuHomework;
 
-public class car extends jiaotonggongju implements OpenWindow {
+public class Car extends Transport implements OpenWindow {
     public void Howwork(String b) {
         this.setWork(b);
         System.out.println("汽车的工作方式为：" + getWork());

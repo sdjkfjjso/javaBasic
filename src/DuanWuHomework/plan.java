@@ -1,6 +1,6 @@
-package DuanWu;
+package DuanWuHomework;
 
-public class plan extends jiaotonggongju {
+public class plan extends Transport {
     public void Howwork(String b) {
         this.setWork(b);
         System.out.println("飞机的工作方式为：" + getWork());
